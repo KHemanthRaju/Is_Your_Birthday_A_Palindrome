@@ -1,3 +1,24 @@
-body{
+body {
+  margin: 0;
+  padding: 1rem;
+  box-sizing: border-box;
+  height: 100vh;
+  background-color: rgb(248, 161, 46);
+  color: rgb(19, 4, 4);
+}
+
+main {
+  border: 1px solid white;
+  text-align: center;
+  height: 100%;
+}
+
+p {
+  padding: 1.5rem;
+  text-align: left;
+  font-size: large;
+}
+
+#result{
     text-align: center;
 }
